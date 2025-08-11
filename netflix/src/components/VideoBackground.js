@@ -13,7 +13,7 @@ const VideoBackground = ({ movieId, bool }) => {
                 src={`https://www.youtube.com/embed/${trailerMovie?.key}?si=B0EtlVrGmXYbIIEy&autoplay=1&mute=1`}
                 title="YouTube video player"
                 frameBorder="0"
-                allowFullscreen>
+                allowFullScreen>
                 </iframe>
         </div>
     )
