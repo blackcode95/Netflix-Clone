@@ -1,5 +1,5 @@
-export const API_END_POINT = "https://netflix-clone-pied-gamma.vercel.app/api/v1/user";
-
+// export const API_END_POINT = "https://netflix-clone-pied-gamma.vercel.app/api/v1/user";
+export const API_END_POINT = "http://localhost:3000/api/v1/user";
 export const options = {
   method: 'GET',
   headers: {
